@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\bin\Debug\net8.0\CheckCpf.exe
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\bin\Debug\net8.0\CheckCpf.deps.json
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\bin\Debug\net8.0\CheckCpf.runtimeconfig.json
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\bin\Debug\net8.0\CheckCpf.dll
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\bin\Debug\net8.0\CheckCpf.pdb
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.AssemblyInfo.cs
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.dll
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\refint\CheckCpf.dll
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.pdb
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\CheckCpf.genruntimeconfig.cache
+C:\Users\marce\source\repos\CheckCpf\CheckCpf\obj\Debug\net8.0\ref\CheckCpf.dll
